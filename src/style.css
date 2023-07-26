@@ -1,0 +1,32 @@
+h1,
+p {
+  font-family: Lato;
+}
+.mybox {
+  border: 1px solid;
+  padding: 10px;
+  margin: 10px;
+  width: 40%;
+  justify-content: center;
+  align-items: center;
+    
+
+}
+.margin{
+    margin-right: 2px;
+}
+.button{
+    padding: 5px;
+}
+li {
+  margin: 5px;
+  padding: 5px;
+}
+.over {
+  background-color: lightgreen;
+}
+.notover {
+  background-color: indianred;
+}
+
+   
